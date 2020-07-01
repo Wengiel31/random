@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    background-color: #282828;
+}
+
+#back {
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 50px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#back:hover {
+    text-decoration: underline;
+}
+
+#mainForm {
+    padding: 10px;
+}
+
+input {
+    width: 100px;
+    padding: 2px;
+    background-color: #eeeeee;
+    border: 2px solid #000000;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+#number {
+    margin-left: 10px;
+}
